@@ -1,0 +1,1671 @@
+---
+tags: [indice]
+---
+
+# Índice de recursos
+
+1569 recursos en 31 familias. Detección: `auto` = localizable por script · `pistas` = búsqueda de marcadores léxicos o de puntuación · `lectura` = requiere interpretación.
+
+Ver también: [[01 Cómo usar el vault]] · [[02 Pistas de detección]]
+
+## [[Familias/01 Tropos de palabra y de pensamiento|Tropos de palabra y de pensamiento]] (59)
+
+- [[Familias/01 Tropos de palabra y de pensamiento#Abusio|Abusio]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Alegoría|Alegoría]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Alegoría permixta|Alegoría permixta]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Alegoría tota|Alegoría tota]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Animalización|Animalización]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Antífrasis|Antífrasis]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Antonomasia|Antonomasia]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Antonomasia por perífrasis|Antonomasia por perífrasis]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Antonomasia vossiana|Antonomasia vossiana]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Catacresis|Catacresis]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Cosificación|Cosificación]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Desautomatización de la catacresis|Desautomatización de la catacresis]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Deshumanización|Deshumanización]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Dilogía|Dilogía]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Epíteto épico|Epíteto épico]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Epíteto metafórico|Epíteto metafórico]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Hipálage|Hipálage]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Imagen|Imagen]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Imagen visionaria|Imagen visionaria]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Ironía tropológica|Ironía tropológica]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Litotes|Litotes]] `pistas`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metalepsis retórica|Metalepsis retórica]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metalogismo|Metalogismo]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metasemema|Metasemema]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora|Metáfora]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora absoluta|Metáfora absoluta]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora aposicional|Metáfora aposicional]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora conceptual|Metáfora conceptual]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora continuada|Metáfora continuada]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora de genitivo|Metáfora de genitivo]] `pistas`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora impura|Metáfora impura]] `pistas`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora in praesentia / in absentia|Metáfora in praesentia / in absentia]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora lexicalizada|Metáfora lexicalizada]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora negativa|Metáfora negativa]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora pura|Metáfora pura]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora sin término real recuperable|Metáfora sin término real recuperable]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metáfora sinestésica|Metáfora sinestésica]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metonimia|Metonimia]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metonimia de la causa por el efecto|Metonimia de la causa por el efecto]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metonimia del efecto por la causa|Metonimia del efecto por la causa]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Metonimia del símbolo por lo simbolizado|Metonimia del símbolo por lo simbolizado]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Perífrasis|Perífrasis]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Personificación lexicalizada|Personificación lexicalizada]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Prosopopeya|Prosopopeya]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Silepsis tropológica|Silepsis tropológica]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinestesia|Sinestesia]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinestesia afectiva|Sinestesia afectiva]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque|Sinécdoque]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque de la materia por el objeto|Sinécdoque de la materia por el objeto]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque de la parte por el todo|Sinécdoque de la parte por el todo]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque del género por la especie|Sinécdoque del género por la especie]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque del singular por el plural|Sinécdoque del singular por el plural]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque del todo por la parte|Sinécdoque del todo por la parte]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Sinécdoque generalizante y particularizante|Sinécdoque generalizante y particularizante]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Símbolo|Símbolo]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Símbolo disémico / bisémico|Símbolo disémico / bisémico]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Símbolo heterogéneo|Símbolo heterogéneo]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Translatio|Translatio]] `lectura`
+- [[Familias/01 Tropos de palabra y de pensamiento#Tropo|Tropo]] `lectura`
+
+## [[Familias/02 Figuras de comparación y analogía|Figuras de comparación y analogía]] (18)
+
+- [[Familias/02 Figuras de comparación y analogía#Analogía|Analogía]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Collatio|Collatio]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Comparación|Comparación]] `auto`
+- [[Familias/02 Figuras de comparación y analogía#Comparación hiperbólica|Comparación hiperbólica]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Comparación negativa|Comparación negativa]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Comparación por inferioridad o superioridad|Comparación por inferioridad o superioridad]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Comparatio compendiaria|Comparatio compendiaria]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Correspondencia|Correspondencia]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Eikón|Eikón]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Exemplum|Exemplum]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Icono|Icono]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Imagen especular|Imagen especular]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Metáfora comparativa|Metáfora comparativa]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Paradiastole|Paradiastole]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Parábola|Parábola]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Similitudo|Similitudo]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Símil cumulativo|Símil cumulativo]] `pistas`
+- [[Familias/02 Figuras de comparación y analogía#Símil épico|Símil épico]] `pistas`
+
+## [[Familias/03 Figuras de dicción por repetición (adiectio)|Figuras de dicción por repetición (adiectio)]] (59)
+
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Anadiplosis|Anadiplosis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Anáfora|Anáfora]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Anáfora sintáctica|Anáfora sintáctica]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Anominación|Anominación]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Antanaclasis|Antanaclasis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Antimeria por repetición|Antimeria por repetición]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Antimetábole|Antimetábole]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Antístrofe|Antístrofe]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Bicolon|Bicolon]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Cláusula repetida|Cláusula repetida]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Complexio|Complexio]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Concatenación|Concatenación]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Conduplicación|Conduplicación]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Correlación|Correlación]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Derivación|Derivación]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Diácope|Diácope]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Diseminación-recolección|Diseminación-recolección]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Dobre|Dobre]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epanadiplosis|Epanadiplosis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epanalepsis|Epanalepsis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epanástrofe|Epanástrofe]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epanortosis anafórica|Epanortosis anafórica]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epánodo|Epánodo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epizeuxis|Epizeuxis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epífora|Epífora]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Epímone|Epímone]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Estribillo|Estribillo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Gradatio|Gradatio]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Homeoptoton|Homeoptoton]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Homeoteleuton|Homeoteleuton]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Isocolon|Isocolon]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Leixa-pren|Leixa-pren]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Mesarquía|Mesarquía]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Mesodiplosis|Mesodiplosis]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Mesoteleuton|Mesoteleuton]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Mozdobre|Mozdobre]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo|Paralelismo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo antitético|Paralelismo antitético]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo climático|Paralelismo climático]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo semántico|Paralelismo semántico]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo sinonímico|Paralelismo sinonímico]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Paralelismo sintético|Paralelismo sintético]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Pentacolon y policolon|Pentacolon y policolon]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Pleonasmo|Pleonasmo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Ploce|Ploce]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Polisíndeton|Polisíndeton]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Políptoton|Políptoton]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Quiasmo|Quiasmo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Redditio|Redditio]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Reduplicación expresiva|Reduplicación expresiva]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Repetición|Repetición]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Repetición diseminada|Repetición diseminada]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Retornelo|Retornelo]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Sinonimia|Sinonimia]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Símploce|Símploce]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Tetracolon|Tetracolon]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Traductio|Traductio]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Tricolon|Tricolon]] `auto`
+- [[Familias/03 Figuras de dicción por repetición (adiectio)#Tricolon crescens|Tricolon crescens]] `auto`
+
+## [[Familias/04 Figuras de construcción- supresión (detractio)|Figuras de construcción- supresión (detractio)]] (18)
+
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Anacoluto|Anacoluto]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Apokoinou|Apokoinou]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Aposiopesis|Aposiopesis]] `auto`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Asíndeton|Asíndeton]] `auto`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Braquilogía|Braquilogía]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Diazeugma|Diazeugma]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Eclipsis|Eclipsis]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Elipsis|Elipsis]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Estilo nominal|Estilo nominal]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Hipozeugma|Hipozeugma]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Hipozeuxis|Hipozeuxis]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Mesozeugma|Mesozeugma]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Prozeugma|Prozeugma]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Silepsis gramatical|Silepsis gramatical]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Supresión parcial de enumeración|Supresión parcial de enumeración]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Truncamiento de fórmula|Truncamiento de fórmula]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Zeugma|Zeugma]] `pistas`
+- [[Familias/04 Figuras de construcción- supresión (detractio)#Zeugma complejo|Zeugma complejo]] `pistas`
+
+## [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)|Figuras de construcción- orden y disposición (transmutatio)]] (44)
+
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Adjetivación múltiple|Adjetivación múltiple]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Anástrofe|Anástrofe]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Anticipación sintáctica|Anticipación sintáctica]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Antimeria|Antimeria]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Antiptosis|Antiptosis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Articulus|Articulus]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Bimembración|Bimembración]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Concinnitas|Concinnitas]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Construcción absoluta|Construcción absoluta]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Construcción en abanico|Construcción en abanico]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Construcción pivote|Construcción pivote]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Dislocación sintáctica|Dislocación sintáctica]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Dispositio en anillo|Dispositio en anillo]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Enálage|Enálage]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Endíadis invertida|Endíadis invertida]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Enumeración caótica|Enumeración caótica]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto|Epíteto]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto de carácter|Epíteto de carácter]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto de naturaleza|Epíteto de naturaleza]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto invertido|Epíteto invertido]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto ornante|Epíteto ornante]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Epíteto pleonástico|Epíteto pleonástico]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Fórmula A si no B|Fórmula A si no B]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Fórmula A, B no|Fórmula A, B no]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Frase marco|Frase marco]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Hendíadis|Hendíadis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Hipérbaton|Hipérbaton]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Hipérbaton latinizante|Hipérbaton latinizante]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Hipotaxis|Hipotaxis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Histerología|Histerología]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Hysteron proteron|Hysteron proteron]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Inconcinnitas|Inconcinnitas]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Interrupción narrativa|Interrupción narrativa]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Inversión|Inversión]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Membrum|Membrum]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Parataxis|Parataxis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Parénthesis|Parénthesis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Período|Período]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Prótasis y apódosis|Prótasis y apódosis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Quiasmo estructural|Quiasmo estructural]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Quiasmo sintáctico|Quiasmo sintáctico]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Sínquisis|Sínquisis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Tmesis|Tmesis]] `pistas`
+- [[Familias/05 Figuras de construcción- orden y disposición (transmutatio)#Variatio|Variatio]] `pistas`
+
+## [[Familias/06 Figuras fónicas y de sonido|Figuras fónicas y de sonido]] (44)
+
+- [[Familias/06 Figuras fónicas y de sonido#Aliteración|Aliteración]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Alternancia vocálica|Alternancia vocálica]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Anagramatismo sonoro|Anagramatismo sonoro]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Armonía imitativa|Armonía imitativa]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Asonancia|Asonancia]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Asonancia interna|Asonancia interna]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Bisemia fónica|Bisemia fónica]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Cacofonía|Cacofonía]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Calambur|Calambur]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Consonancia|Consonancia]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Consonancia interna|Consonancia interna]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Eco|Eco]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Ecolalia poética|Ecolalia poética]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Eufonía|Eufonía]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Fonosimbolismo|Fonosimbolismo]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Glosolalia|Glosolalia]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Holorrima|Holorrima]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Jitanjáfora|Jitanjáfora]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Onomatopeya|Onomatopeya]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Paronomasia|Paronomasia]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Paronomasia apofónica|Paronomasia apofónica]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Paronomasia onomástica|Paronomasia onomástica]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Paronomasia por adición o supresión|Paronomasia por adición o supresión]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Poesía fonética|Poesía fonética]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Retruécano|Retruécano]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima abrazada|Rima abrazada]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima aguda / llana|Rima aguda / llana]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima cruzada|Rima cruzada]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima de cabo roto|Rima de cabo roto]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima de una sola vocal|Rima de una sola vocal]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima derivada|Rima derivada]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima en -ado, -ido|Rima en -ado, -ido]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima en eco|Rima en eco]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima encadenada|Rima encadenada]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima equívoca|Rima equívoca]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima esdrújula|Rima esdrújula]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima imperfecta|Rima imperfecta]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima independiente / verso suelto|Rima independiente / verso suelto]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima interna|Rima interna]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima mosaico|Rima mosaico]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima pareada|Rima pareada]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima rica / rima pobre|Rima rica / rima pobre]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Rima visual|Rima visual]] `auto`
+- [[Familias/06 Figuras fónicas y de sonido#Similicadencia|Similicadencia]] `auto`
+
+## [[Familias/07 Metaplasmos y figuras de alteración de la palabra|Metaplasmos y figuras de alteración de la palabra]] (31)
+
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Acronimia y cruce léxico|Acronimia y cruce léxico]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Aféresis|Aféresis]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Aféresis expresiva|Aféresis expresiva]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Aféresis y apócope cómica|Aféresis y apócope cómica]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Anagrama léxico|Anagrama léxico]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Antítesis fonética|Antítesis fonética]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Apócope|Apócope]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Arcaísmo|Arcaísmo]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Aumentativo y despectivo expresivos|Aumentativo y despectivo expresivos]] `auto`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Contrepèterie|Contrepèterie]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Crasis|Crasis]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Cultismo léxico|Cultismo léxico]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Diástole|Diástole]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Diminutivo expresivo|Diminutivo expresivo]] `auto`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Elisión|Elisión]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Epéntesis|Epéntesis]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Etimología popular|Etimología popular]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Hápax legómenon|Hápax legómenon]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Malapropismo|Malapropismo]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Metaplasmo|Metaplasmo]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Metátesis|Metátesis]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Neologismo|Neologismo]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Ortografía expresiva|Ortografía expresiva]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Palabra compuesta poética|Palabra compuesta poética]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Palabra-maleta|Palabra-maleta]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Paragoge|Paragoge]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Prevaricación idiomática|Prevaricación idiomática]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Prótesis|Prótesis]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Rotacismo / lambdacismo dialectal|Rotacismo / lambdacismo dialectal]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Síncopa|Síncopa]] `pistas`
+- [[Familias/07 Metaplasmos y figuras de alteración de la palabra#Sístole|Sístole]] `pistas`
+
+## [[Familias/08 Figuras de pensamiento descriptivas (evidentia)|Figuras de pensamiento descriptivas (evidentia)]] (33)
+
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Blasón|Blasón]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Caricatura|Caricatura]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Contreblasón|Contreblasón]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Cronografía|Cronografía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Demonstratio|Demonstratio]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Descripción dinámica|Descripción dinámica]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Descripción estática|Descripción estática]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Descriptio|Descriptio]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Descriptio puellae|Descriptio puellae]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Detalle significativo|Detalle significativo]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Diatiposis|Diatiposis]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Diálogo descriptivo|Diálogo descriptivo]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Efecto de realidad|Efecto de realidad]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Effictio|Effictio]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Enargía|Enargía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Energía|Energía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Enumeración descriptiva|Enumeración descriptiva]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Etopeya|Etopeya]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Écfrasis|Écfrasis]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Écfrasis nocional|Écfrasis nocional]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Hipotiposis|Hipotiposis]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Hipotiposis temporal|Hipotiposis temporal]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Locus descriptivo|Locus descriptivo]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Paisaje de estado de ánimo|Paisaje de estado de ánimo]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Pathetic fallacy|Pathetic fallacy]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Pragmatografía|Pragmatografía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Presente histórico|Presente histórico]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Prosopografía|Prosopografía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Prosopografía grotesca|Prosopografía grotesca]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Retrato|Retrato]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Topografía|Topografía]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Topotesia|Topotesia]] `lectura`
+- [[Familias/08 Figuras de pensamiento descriptivas (evidentia)#Viñeta|Viñeta]] `lectura`
+
+## [[Familias/09 Figuras de pensamiento patéticas y apelativas|Figuras de pensamiento patéticas y apelativas]] (48)
+
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Amenaza velada|Amenaza velada]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Anamnesis|Anamnesis]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Animadversio|Animadversio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Antisagoge|Antisagoge]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Apóstrofe|Apóstrofe]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Asfalia|Asfalia]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Asteísmo patético|Asteísmo patético]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Ánimo exhortativo|Ánimo exhortativo]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Bdelygmia|Bdelygmia]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Categoría|Categoría]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Comploración|Comploración]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Conminación|Conminación]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Consolatio|Consolatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Deprecación|Deprecación]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Dialogismo|Dialogismo]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Ecfonesis|Ecfonesis]] `auto`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Ejaculatio|Ejaculatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Epifonema|Epifonema]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Epífrasis|Epífrasis]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Epíplexis|Epíplexis]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Euché|Euché]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Eustatia|Eustatia]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Exclamación|Exclamación]] `auto`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Execración|Execración]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Exuscitatio|Exuscitatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Fictio personae|Fictio personae]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Filofronesis|Filofronesis]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Idolopeya|Idolopeya]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Imprecación|Imprecación]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Indignatio|Indignatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Interrogación retórica|Interrogación retórica]] `auto`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Invocación|Invocación]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Invocación a la musa|Invocación a la musa]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Juramento|Juramento]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Licencia|Licencia]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Maldición|Maldición]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Medela|Medela]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Mempsis|Mempsis]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Obsecración|Obsecración]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Ominatio|Ominatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Optación|Optación]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Permisión|Permisión]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Pénismo|Pénismo]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Planto|Planto]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Pysma|Pysma]] `auto`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Querella|Querella]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Sermocinatio|Sermocinatio]] `pistas`
+- [[Familias/09 Figuras de pensamiento patéticas y apelativas#Singnome|Singnome]] `pistas`
+
+## [[Familias/10 Figuras de pensamiento dialécticas y lógicas|Figuras de pensamiento dialécticas y lógicas]] (66)
+
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Adýnaton|Adýnaton]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Aetiologia|Aetiologia]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Aforismo|Aforismo]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Anábasis retórica|Anábasis retórica]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antanagoge|Antanagoge]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Anthypophora|Anthypophora]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Anticategoría|Anticategoría]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Anticipación|Anticipación]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antilogía|Antilogía]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antimetátesis|Antimetátesis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antírresis|Antírresis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antítesis|Antítesis]] `pistas`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antítesis de imágenes|Antítesis de imágenes]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antítesis de términos complementarios|Antítesis de términos complementarios]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Antítesis múltiple|Antítesis múltiple]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Apodioxis|Apodioxis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Apomnemonisis|Apomnemonisis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Aporía|Aporía]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Apotegma|Apotegma]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Catábasis retórica|Catábasis retórica]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Coincidentia oppositorum|Coincidentia oppositorum]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Commoratio|Commoratio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Comunicación|Comunicación]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Concesión|Concesión]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Contradictio in adiecto|Contradictio in adiecto]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Contrarium|Contrarium]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Correctio|Correctio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Definición|Definición]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Definición por negación|Definición por negación]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Dialage|Dialage]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Diálogo platónico|Diálogo platónico]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Dirimens copulatio|Dirimens copulatio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Disputatio|Disputatio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Distinción|Distinción]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Divisio|Divisio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Dubitación|Dubitación]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Elenchos|Elenchos]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Entimema poético|Entimema poético]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Epanortosis|Epanortosis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Epícrisis|Epícrisis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Expeditio|Expeditio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Expolitio|Expolitio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Frequentatio|Frequentatio]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Gnome|Gnome]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Hipófora|Hipófora]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Ironía dialéctica|Ironía dialéctica]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Mayéutica|Mayéutica]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Máxima|Máxima]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Metanoia|Metanoia]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Metábasis|Metábasis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Metástasis|Metástasis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Mundo al revés|Mundo al revés]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Oxímoron|Oxímoron]] `pistas`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Paradoja|Paradoja]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Paradoja estoica|Paradoja estoica]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Pareja antitética|Pareja antitética]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Paremia|Paremia]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Prodiortosis|Prodiortosis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Proectesis|Proectesis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Prosapodosis|Prosapodosis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Quodlibet|Quodlibet]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Retorsión|Retorsión]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Sententia|Sententia]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Sinecciosis|Sinecciosis]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Sistrofe|Sistrofe]] `lectura`
+- [[Familias/10 Figuras de pensamiento dialécticas y lógicas#Sustentación|Sustentación]] `lectura`
+
+## [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido|Figuras oblicuas- ironía, ocultación y sobreentendido]] (42)
+
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Adianoeta|Adianoeta]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Alusión|Alusión]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Antífrasis eufemística|Antífrasis eufemística]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Antífrasis irónica|Antífrasis irónica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Apofasis|Apofasis]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Apoplanesis|Apoplanesis]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Asteísmo|Asteísmo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Autoironía|Autoironía]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Carientismo|Carientismo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Cleuasmo|Cleuasmo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Diasirmo|Diasirmo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Disfemismo|Disfemismo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Doble sentido|Doble sentido]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Eirôn y alazón|Eirôn y alazón]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Esquematismo|Esquematismo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Eufemismo|Eufemismo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Énfasis|Énfasis]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Hipocorismo irónico|Hipocorismo irónico]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Insinuación|Insinuación]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Insinuación calumniosa|Insinuación calumniosa]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía|Ironía]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía cósmica|Ironía cósmica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía dramática|Ironía dramática]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía estructural|Ironía estructural]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía por omisión|Ironía por omisión]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía romántica|Ironía romántica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía socrática|Ironía socrática]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía trágica|Ironía trágica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Ironía verbal y situacional|Ironía verbal y situacional]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Litotes irónica|Litotes irónica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Micterismo|Micterismo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Mímesis burlesca|Mímesis burlesca]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Noema|Noema]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Parálipsis|Parálipsis]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Parresía irónica|Parresía irónica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Preterición|Preterición]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Reticencia|Reticencia]] `pistas`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Retórica del silencio|Retórica del silencio]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Sarcasmo|Sarcasmo]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Sobreentendido|Sobreentendido]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Tapinosis irónica|Tapinosis irónica]] `lectura`
+- [[Familias/11 Figuras oblicuas- ironía, ocultación y sobreentendido#Understatement|Understatement]] `lectura`
+
+## [[Familias/12 Figuras de amplificación, acumulación y atenuación|Figuras de amplificación, acumulación y atenuación]] (35)
+
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Acumulación|Acumulación]] `auto`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Ampliación por circunstancias|Ampliación por circunstancias]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Amplificación|Amplificación]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Anticlímax|Anticlímax]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Atenuación|Atenuación]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Auxesis|Auxesis]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Bathos|Bathos]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Braquilogía como atenuación|Braquilogía como atenuación]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Clímax|Clímax]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Comparatio amplificadora|Comparatio amplificadora]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Conglobatio|Conglobatio]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Copia|Copia]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Cornucopia|Cornucopia]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Distribución|Distribución]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Encarecimiento|Encarecimiento]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Enumeración|Enumeración]] `auto`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Epexegesis|Epexegesis]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Epímone amplificadora|Epímone amplificadora]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Exageración cómica|Exageración cómica]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Gradación|Gradación]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Gradación semántica|Gradación semántica]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Hipérbole|Hipérbole]] `lectura`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Hipérbole de disminución|Hipérbole de disminución]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Incrementum|Incrementum]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Laconismo|Laconismo]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Lista|Lista]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Macrología|Macrología]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Meiosis|Meiosis]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Perisología|Perisología]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Ponderación misteriosa|Ponderación misteriosa]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Priamel|Priamel]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Ratiocinatio amplificadora|Ratiocinatio amplificadora]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Sinatroísmo|Sinatroísmo]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Superlación|Superlación]] `pistas`
+- [[Familias/12 Figuras de amplificación, acumulación y atenuación#Tapinosis|Tapinosis]] `pistas`
+
+## [[Familias/13 Agudeza, equívoco y juegos de ingenio|Agudeza, equívoco y juegos de ingenio]] (33)
+
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Absurdo|Absurdo]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Adivinanza|Adivinanza]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Aforismo paradójico|Aforismo paradójico]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza|Agudeza]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza crítica y maliciosa|Agudeza crítica y maliciosa]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza nominal|Agudeza nominal]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza por correspondencia y proporción|Agudeza por correspondencia y proporción]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza por improporción y disonancia|Agudeza por improporción y disonancia]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Agudeza verbal|Agudeza verbal]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Anfibología|Anfibología]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Bouts-rimés|Bouts-rimés]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Charada|Charada]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Chiste|Chiste]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Conceit metafísico|Conceit metafísico]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Concepto|Concepto]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Dilogía conceptista|Dilogía conceptista]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Enigma|Enigma]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Equívoco|Equívoco]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Greguería|Greguería]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Grifo|Grifo]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Humor negro|Humor negro]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Humorismo|Humorismo]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Juego de palabras|Juego de palabras]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Kakemphaton|Kakemphaton]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Logogrifo|Logogrifo]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Malentendido|Malentendido]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Nonsense|Nonsense]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Paradoja conceptista|Paradoja conceptista]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Pie forzado|Pie forzado]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Rebus|Rebus]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Retruécano conceptual|Retruécano conceptual]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Silepsis|Silepsis]] `lectura`
+- [[Familias/13 Agudeza, equívoco y juegos de ingenio#Zeugma humorístico|Zeugma humorístico]] `lectura`
+
+## [[Familias/14 Recursos de tradiciones poéticas no grecolatinas|Recursos de tradiciones poéticas no grecolatinas]] (74)
+
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Acróstico alfabético hebreo|Acróstico alfabético hebreo]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Aicill|Aicill]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Alaṃkāra|Alaṃkāra]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Aliteración germánica|Aliteración germánica]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Anuprāsa|Anuprāsa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Arthāntaranyāsa|Arthāntaranyāsa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Atiśayokti|Atiśayokti]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Badīʿ|Badīʿ]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Bahuvrīhi|Bahuvrīhi]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Bhāva|Bhāva]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Bi|Bi]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Cynghanedd|Cynghanedd]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Dhvani|Dhvani]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Diangu|Diangu]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Dróttkvætt|Dróttkvætt]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Dṛṣṭānta|Dṛṣṭānta]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Duizhang|Duizhang]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Dúnadh|Dúnadh]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Dvandva|Dvandva]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Engo|Engo]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Escena típica|Escena típica]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Fórmula épica|Fórmula épica]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Fu|Fu]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Gematría|Gematría]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Griot / epopeya mandinga|Griot / epopeya mandinga]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Heiti|Heiti]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Hending|Hending]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Honkadori|Honkadori]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Husn al-taʿlīl|Husn al-taʿlīl]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Iltifāt|Iltifāt]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Istiʿāra|Istiʿāra]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Īhām|Īhām]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Jo|Jo]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kakekotoba|Kakekotoba]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kenning|Kenning]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kenning compuesto|Kenning compuesto]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kigo|Kigo]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kināya|Kināya]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kire|Kire]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Kireji|Kireji]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Litotes germánica|Litotes germánica]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Majāz|Majāz]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Makurakotoba|Makurakotoba]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Merismo|Merismo]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Midrash|Midrash]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Mono no aware|Mono no aware]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Mubālagha|Mubālagha]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Muqābala|Muqābala]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Muʿāraḍa|Muʿāraḍa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Ochi|Ochi]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Ofljóst|Ofljóst]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Paralelismo bíblico|Paralelismo bíblico]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Paralelismo oral|Paralelismo oral]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Radīf|Radīf]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Rasa|Rasa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Rūpaka|Rūpaka]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Sabi y wabi|Sabi y wabi]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Saŷʿ|Saŷʿ]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Śleṣa|Śleṣa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Taḍmīn|Taḍmīn]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Tajnīs|Tajnīs]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Takhalluṣ|Takhalluṣ]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Tashbīh|Tashbīh]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Tatpuruṣa|Tatpuruṣa]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Ṭibāq|Ṭibāq]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Upamā|Upamā]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Utamakura|Utamakura]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Utprekṣā|Utprekṣā]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Vakrokti|Vakrokti]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Variación|Variación]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Xing|Xing]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Yamaka|Yamaka]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Yijing|Yijing]] `lectura`
+- [[Familias/14 Recursos de tradiciones poéticas no grecolatinas#Yūgen|Yūgen]] `lectura`
+
+## [[Familias/15 Recursos simbólicos, emblemáticos y míticos|Recursos simbólicos, emblemáticos y míticos]] (46)
+
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Alegoría narrativa|Alegoría narrativa]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Alegoría personificada|Alegoría personificada]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Anagogía|Anagogía]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Anábasis|Anábasis]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Apólogo|Apólogo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Arquetipo|Arquetipo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Bestiario|Bestiario]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Catábasis|Catábasis]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Correlato objetivo|Correlato objetivo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Cronotopo|Cronotopo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Cuatro sentidos de la Escritura|Cuatro sentidos de la Escritura]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Divisa|Divisa]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Doble|Doble]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Emblema|Emblema]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Empresa|Empresa]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Enxiemplo|Enxiemplo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Epifanía|Epifanía]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Fábula|Fábula]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Ideograma|Ideograma]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Imagen arquetípica|Imagen arquetípica]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Imagen poética|Imagen poética]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Interpretación figural|Interpretación figural]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Jeroglífico|Jeroglífico]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Lapidario y herbario simbólicos|Lapidario y herbario simbólicos]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Leitmotiv|Leitmotiv]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Locus horridus|Locus horridus]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Memoria involuntaria|Memoria involuntaria]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Mitema|Mitema]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Mito|Mito]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Mitologema|Mitologema]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Momento privilegiado|Momento privilegiado]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Motivo|Motivo]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Motivo libre y motivo ligado|Motivo libre y motivo ligado]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Nekyia|Nekyia]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Nóstos|Nóstos]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Objeto simbólico|Objeto simbólico]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Psicomaquia|Psicomaquia]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Simbolismo cromático|Simbolismo cromático]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Simbolismo numérico|Simbolismo numérico]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Símbolo convencional|Símbolo convencional]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Símbolo privado|Símbolo privado]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Teichoscopia|Teichoscopia]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Tema|Tema]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Tipología|Tipología]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Topos|Topos]] `lectura`
+- [[Familias/15 Recursos simbólicos, emblemáticos y míticos#Viaje del héroe|Viaje del héroe]] `lectura`
+
+## [[Familias/16 Tópicos literarios (topoi, loci communes)|Tópicos literarios (topoi, loci communes)]] (72)
+
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Alba|Alba]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Amor como enfermedad|Amor como enfermedad]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Amor como fuego|Amor como fuego]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ars moriendi|Ars moriendi]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Aurea aetas|Aurea aetas]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Beatus ille|Beatus ille]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Captatio benevolentiae|Captatio benevolentiae]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Carpe diem|Carpe diem]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Collige, virgo, rosas|Collige, virgo, rosas]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Contemptus mundi|Contemptus mundi]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Danza de la muerte|Danza de la muerte]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Dedicatoria|Dedicatoria]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Desengaño|Desengaño]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Docere et delectare|Docere et delectare]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Dolce amaro|Dolce amaro]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Donna angelicata|Donna angelicata]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Dulce et decorum est pro patria mori|Dulce et decorum est pro patria mori]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Et in Arcadia ego|Et in Arcadia ego]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Exegi monumentum|Exegi monumentum]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Exordio de lo nunca dicho|Exordio de lo nunca dicho]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Falsa modestia|Falsa modestia]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Flecha de Cupido|Flecha de Cupido]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Fortuna mutabile|Fortuna mutabile]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Fortuna y virtud|Fortuna y virtud]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Homo viator|Homo viator]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#In ictu oculi|In ictu oculi]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ingenium y ars|Ingenium y ars]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Invocación a la naturaleza|Invocación a la naturaleza]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Juventud y vejez|Juventud y vejez]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Laudatio temporis acti|Laudatio temporis acti]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Locus amoenus|Locus amoenus]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Locus eremus|Locus eremus]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Mal mariée|Mal mariée]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Memento mori|Memento mori]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Menosprecio de corte y alabanza de aldea|Menosprecio de corte y alabanza de aldea]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Militia amoris|Militia amoris]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Militia vitae|Militia vitae]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Moralización del paisaje|Moralización del paisaje]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Mundo como libro / libro como mundo|Mundo como libro / libro como mundo]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Mundus senescit|Mundus senescit]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Naturaleza lamenta|Naturaleza lamenta]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Navegación como escritura|Navegación como escritura]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ojos como vía del amor|Ojos como vía del amor]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Omnia vincit amor|Omnia vincit amor]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Paraclausíthyron|Paraclausíthyron]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Pastor enamorado|Pastor enamorado]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Pastoral de la edad dorada|Pastoral de la edad dorada]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Peregrinatio vitae|Peregrinatio vitae]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Puer senex|Puer senex]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Recusatio|Recusatio]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Religio amoris|Religio amoris]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Retrato de la amada en el corazón|Retrato de la amada en el corazón]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Rosa|Rosa]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ruinas|Ruinas]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Sermo humilis y autor indigno|Sermo humilis y autor indigno]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Servitium amoris|Servitium amoris]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Sic transit gloria mundi|Sic transit gloria mundi]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Sobrepujamiento|Sobrepujamiento]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tempus fugit|Tempus fugit]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Theatrum mundi|Theatrum mundi]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico de la brevedad|Tópico de la brevedad]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico de lo inefable|Tópico de lo inefable]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del cansancio|Tópico del cansancio]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del libro de la naturaleza|Tópico del libro de la naturaleza]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del manuscrito encontrado|Tópico del manuscrito encontrado]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del mundo como cárcel|Tópico del mundo como cárcel]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del poeta inspirado|Tópico del poeta inspirado]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Tópico del sueño de la vida|Tópico del sueño de la vida]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ubi sunt|Ubi sunt]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Ut pictura poesis|Ut pictura poesis]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Vanitas|Vanitas]] `pistas`
+- [[Familias/16 Tópicos literarios (topoi, loci communes)#Vita flumen|Vita flumen]] `pistas`
+
+## [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura|Relaciones transtextuales, intertextuales y de reescritura]] (49)
+
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#A lo divino|A lo divino]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Adaptación|Adaptación]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Aemulatio|Aemulatio]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Alusión intertextual|Alusión intertextual]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Anacronismo deliberado|Anacronismo deliberado]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Apócrifo literario|Apócrifo literario]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Architextualidad|Architextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Autointertextualidad|Autointertextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Calco estructural|Calco estructural]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Carnavalización|Carnavalización]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Centón|Centón]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Charge|Charge]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Cita|Cita]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Contaminatio|Contaminatio]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Contrafactum|Contrafactum]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Dialogismo bajtiniano|Dialogismo bajtiniano]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Epígrafe|Epígrafe]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Estilización|Estilización]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Écfrasis intertextual|Écfrasis intertextual]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Fanfiction y reescritura de fans|Fanfiction y reescritura de fans]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Forgerie|Forgerie]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Heteroglosia|Heteroglosia]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Hipertextualidad|Hipertextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Hipotexto|Hipotexto]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Imitatio|Imitatio]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Intermedialidad|Intermedialidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Intertextualidad|Intertextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Menipea|Menipea]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Metatextualidad|Metatextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Palabra bivocal|Palabra bivocal]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Palimpsesto|Palimpsesto]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Paratexto|Paratexto]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Parodia|Parodia]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Pastiche|Pastiche]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Peritexto y epitexto|Peritexto y epitexto]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Plagio|Plagio]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Poema heroico-cómico|Poema heroico-cómico]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Polifonía|Polifonía]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Realismo grotesco|Realismo grotesco]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Reescritura|Reescritura]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Remake y versión|Remake y versión]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Reminiscencia|Reminiscencia]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Retorno de personajes|Retorno de personajes]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Sampling literario|Sampling literario]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Traducción como recreación|Traducción como recreación]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Transmotivación y transvalorización|Transmotivación y transvalorización]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Transposición|Transposición]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Transtextualidad|Transtextualidad]] `lectura`
+- [[Familias/17 Relaciones transtextuales, intertextuales y de reescritura#Travestimiento burlesco|Travestimiento burlesco]] `lectura`
+
+## [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)|Narratología- tiempo del relato (orden, duración, frecuencia)]] (49)
+
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Ab ovo|Ab ovo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Acronía|Acronía]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Alcance y amplitud|Alcance y amplitud]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Anacronía|Anacronía]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis|Analepsis]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis completiva|Analepsis completiva]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis externa|Analepsis externa]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis heterodiegética y homodiegética|Analepsis heterodiegética y homodiegética]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis interna|Analepsis interna]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis mixta|Analepsis mixta]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Analepsis repetitiva|Analepsis repetitiva]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Anuncio y avance|Anuncio y avance]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Bucle temporal|Bucle temporal]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Duración|Duración]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Elipsis explícita, implícita e hipotética|Elipsis explícita, implícita e hipotética]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Elipsis narrativa|Elipsis narrativa]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Escena|Escena]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Escena dilatada|Escena dilatada]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Estructura circular|Estructura circular]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Estructura en contrapunto|Estructura en contrapunto]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Flashback|Flashback]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Flashforward|Flashforward]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Frecuencia narrativa|Frecuencia narrativa]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#In extremas res|In extremas res]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#In medias res|In medias res]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Isocronía y anisocronía|Isocronía y anisocronía]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Montaje paralelo|Montaje paralelo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Narración ulterior, anterior, simultánea e intercalada|Narración ulterior, anterior, simultánea e intercalada]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Orden cronológico|Orden cronológico]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Ordo artificialis|Ordo artificialis]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Pausa descriptiva|Pausa descriptiva]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Prolepsis|Prolepsis]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Prolepsis completiva y repetitiva|Prolepsis completiva y repetitiva]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Prolepsis externa e interna|Prolepsis externa e interna]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Pseudoiterativo|Pseudoiterativo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Racconto|Racconto]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Relato iterativo|Relato iterativo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Relato repetitivo|Relato repetitivo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Relato singulativo|Relato singulativo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Retrospección enmarcada|Retrospección enmarcada]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Silepsis temporal|Silepsis temporal]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Simultaneísmo narrativo|Simultaneísmo narrativo]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Sumario|Sumario]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Tiempo circular|Tiempo circular]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Tiempo de la historia y tiempo del discurso|Tiempo de la historia y tiempo del discurso]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Tiempo de la lectura|Tiempo de la lectura]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Tiempo detenido|Tiempo detenido]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Tiempo múltiple|Tiempo múltiple]] `lectura`
+- [[Familias/18 Narratología- tiempo del relato (orden, duración, frecuencia)#Ucronía|Ucronía]] `lectura`
+
+## [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos|Narratología- modo, focalización, voz y niveles narrativos]] (61)
+
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Antimetalepsis|Antimetalepsis]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Apelación al lector|Apelación al lector]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Autoficción|Autoficción]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Autor implícito|Autor implícito]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Cajas chinas|Cajas chinas]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Diégesis|Diégesis]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Distancia narrativa|Distancia narrativa]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Doble registro de la voz|Doble registro de la voz]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Extradiegético / intradiegético / metadiegético|Extradiegético / intradiegético / metadiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización|Focalización]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización cero|Focalización cero]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización externa|Focalización externa]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización interna fija|Focalización interna fija]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización interna múltiple|Focalización interna múltiple]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalización interna variable|Focalización interna variable]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Focalizador y focalizado|Focalizador y focalizado]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Intrusión del narrador|Intrusión del narrador]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Lector implícito|Lector implícito]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Lector modelo|Lector modelo]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Metalepsis del autor|Metalepsis del autor]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Metalepsis narrativa|Metalepsis narrativa]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Metalepsis ontológica y retórica|Metalepsis ontológica y retórica]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Mise en abyme|Mise en abyme]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Mise en abyme del enunciado, de la enunciación y del código|Mise en abyme del enunciado, de la enunciación y del código]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narración en forma de diario|Narración en forma de diario]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narración epistolar|Narración epistolar]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narración heterodiegética en primera persona|Narración heterodiegética en primera persona]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador|Narrador]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador animal u objeto|Narrador animal u objeto]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador autodiegético|Narrador autodiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador comentarista|Narrador comentarista]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador deficiente|Narrador deficiente]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador en primera persona del plural|Narrador en primera persona del plural]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador en segunda persona|Narrador en segunda persona]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador equisciente|Narrador equisciente]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador extradiegético|Narrador extradiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador heterodiegético|Narrador heterodiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador homodiegético|Narrador homodiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador ingenuo|Narrador ingenuo]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador intradiegético|Narrador intradiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador muerto|Narrador muerto]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador no fiable|Narrador no fiable]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador objetivo|Narrador objetivo]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador omnisciente editorial|Narrador omnisciente editorial]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narrador testigo|Narrador testigo]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narratario|Narratario]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Narratario extradiegético e intradiegético|Narratario extradiegético e intradiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Paralepsis narratológica|Paralepsis narratológica]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Paralipsis narratológica|Paralipsis narratológica]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Personaje reflector|Personaje reflector]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Perspectivismo|Perspectivismo]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Polifonía narrativa|Polifonía narrativa]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Prolepsis del narrador|Prolepsis del narrador]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Relato confesional|Relato confesional]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Relato enmarcado|Relato enmarcado]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Relato marco|Relato marco]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Relato metadiegético|Relato metadiegético]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Seudoautobiografía|Seudoautobiografía]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Showing / telling|Showing / telling]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Situaciones narrativas|Situaciones narrativas]] `lectura`
+- [[Familias/19 Narratología- modo, focalización, voz y niveles narrativos#Visión «con», «por detrás» y «desde fuera»|Visión «con», «por detrás» y «desde fuera»]] `lectura`
+
+## [[Familias/20 Representación del discurso y de la conciencia|Representación del discurso y de la conciencia]] (32)
+
+- [[Familias/20 Representación del discurso y de la conciencia#Aparte|Aparte]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Contaminación de voces|Contaminación de voces]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Diálogo|Diálogo]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Diálogo de besugos|Diálogo de besugos]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Diálogo de sordos|Diálogo de sordos]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Discurso interior narrativizado|Discurso interior narrativizado]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Discurso narrativizado|Discurso narrativizado]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Discurso referido|Discurso referido]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Discurso transpuesto|Discurso transpuesto]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Efecto «Tío Charles»|Efecto «Tío Charles»]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Esticomitia|Esticomitia]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Estilo directo|Estilo directo]] `auto`
+- [[Familias/20 Representación del discurso y de la conciencia#Estilo directo libre|Estilo directo libre]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Estilo indirecto|Estilo indirecto]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Estilo indirecto libre|Estilo indirecto libre]] `lectura`
+- [[Familias/20 Representación del discurso y de la conciencia#Flujo de conciencia|Flujo de conciencia]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Habla de los personajes en jerga|Habla de los personajes en jerga]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Hemistiquiomitia|Hemistiquiomitia]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Mímesis verbal del idiolecto|Mímesis verbal del idiolecto]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo citado|Monólogo citado]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo dramático|Monólogo dramático]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo exterior|Monólogo exterior]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo interior|Monólogo interior]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo interior directo e indirecto|Monólogo interior directo e indirecto]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Monólogo narrado|Monólogo narrado]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Narración figural|Narración figural]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Oratio obliqua libre|Oratio obliqua libre]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Pensamiento indirecto|Pensamiento indirecto]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Polílogo|Polílogo]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Psiconarración|Psiconarración]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Skaz|Skaz]] `pistas`
+- [[Familias/20 Representación del discurso y de la conciencia#Soliloquio|Soliloquio]] `pistas`
+
+## [[Familias/21 Dispositivos de trama, intriga y estructura dramática|Dispositivos de trama, intriga y estructura dramática]] (83)
+
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Agnición|Agnición]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Agón|Agón]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Anagnórisis|Anagnórisis]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Antihéroe|Antihéroe]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Arma de Chéjov|Arma de Chéjov]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Bildungsroman|Bildungsroman]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Catarsis|Catarsis]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Catástrofe|Catástrofe]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Cliffhanger|Cliffhanger]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Clímax narrativo|Clímax narrativo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Coincidencia|Coincidencia]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Confidente|Confidente]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Conflicto|Conflicto]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Contrafigura|Contrafigura]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Cronómetro|Cronómetro]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Desenlace|Desenlace]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Deus ex machina|Deus ex machina]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Diabolus ex machina|Diabolus ex machina]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Disfraz|Disfraz]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Doble motivación|Doble motivación]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Doble trama|Doble trama]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Enredo|Enredo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Epílogo|Epílogo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Epítasis y catástasis|Epítasis y catástasis]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Equilibrio y desequilibrio|Equilibrio y desequilibrio]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Escena patética|Escena patética]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Estructura en tres actos|Estructura en tres actos]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Exposición|Exposición]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Falso final|Falso final]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Final abierto|Final abierto]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Final circular|Final circular]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Final feliz|Final feliz]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Final sorpresa|Final sorpresa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Funciones de Propp|Funciones de Propp]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Giro argumental|Giro argumental]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Gracioso|Gracioso]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Hamartía|Hamartía]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Historia de fantasmas|Historia de fantasmas]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Huida y persecución|Huida y persecución]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Hýbris|Hýbris]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Incidente incitador|Incidente incitador]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Indicios e informantes|Indicios e informantes]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Intriga|Intriga]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Ironía de situación narrativa|Ironía de situación narrativa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Lo extraño y lo maravilloso|Lo extraño y lo maravilloso]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Lo fantástico|Lo fantástico]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Lo real maravilloso|Lo real maravilloso]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Mano invisible narrativa|Mano invisible narrativa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#McGuffin|McGuffin]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Modelo actancial|Modelo actancial]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Motivación realista y compositiva|Motivación realista y compositiva]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Némesis|Némesis]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Núcleos y catálisis|Núcleos y catálisis]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Ostranenie del argumento|Ostranenie del argumento]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Peripecia|Peripecia]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Peripecia episódica|Peripecia episódica]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Personaje colectivo|Personaje colectivo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Personaje plano y redondo|Personaje plano y redondo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Personaje tipo|Personaje tipo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Pirámide de Freytag|Pirámide de Freytag]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Pista falsa|Pista falsa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Planteamiento, nudo y desenlace|Planteamiento, nudo y desenlace]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Prefiguración|Prefiguración]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Presagio|Presagio]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Profecía autocumplida|Profecía autocumplida]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Prólogo|Prólogo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Prueba|Prueba]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Punto de giro|Punto de giro]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Quête|Quête]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Quid pro quo|Quid pro quo]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Realismo mágico|Realismo mágico]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Recurso de la carta|Recurso de la carta]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Relato iniciático|Relato iniciático]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Secuencia narrativa|Secuencia narrativa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Señal de reconocimiento|Señal de reconocimiento]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Siembra y cosecha|Siembra y cosecha]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Sorpresa|Sorpresa]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Subtrama|Subtrama]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Sueño premonitorio|Sueño premonitorio]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Suspense|Suspense]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Sustitución de víctima|Sustitución de víctima]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Teatro dentro del teatro|Teatro dentro del teatro]] `lectura`
+- [[Familias/21 Dispositivos de trama, intriga y estructura dramática#Viaje|Viaje]] `lectura`
+
+## [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares|Recursos argumentativos- razonamientos, pruebas y lugares]] (75)
+
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad antiquitatem|Ad antiquitatem]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad baculum|Ad baculum]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad consequentiam|Ad consequentiam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad crumenam y ad lazarum|Ad crumenam y ad lazarum]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad hominem circunstancial|Ad hominem circunstancial]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad ignorantiam|Ad ignorantiam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad logicam|Ad logicam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad misericordiam|Ad misericordiam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad nauseam|Ad nauseam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad novitatem|Ad novitatem]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad populum|Ad populum]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad temperantiam|Ad temperantiam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ad verecundiam|Ad verecundiam]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Analogía argumentativa|Analogía argumentativa]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Arenque rojo argumentativo|Arenque rojo argumentativo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento a contrario|Argumento a contrario]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento a fortiori|Argumento a fortiori]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento ad hominem|Argumento ad hominem]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento de autoridad legítimo|Argumento de autoridad legítimo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento de reciprocidad|Argumento de reciprocidad]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por definición|Argumento por definición]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por el despilfarro|Argumento por el despilfarro]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por el ejemplo contrario|Argumento por el ejemplo contrario]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por el signo|Argumento por el signo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por la causa|Argumento por la causa]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento por la dirección|Argumento por la dirección]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Argumento pragmático|Argumento pragmático]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Cita fuera de contexto|Cita fuera de contexto]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Cum hoc ergo propter hoc|Cum hoc ergo propter hoc]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Dilema|Dilema]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ejemplo|Ejemplo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Entimema|Entimema]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Envenenar el pozo|Envenenar el pozo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Epiquerema|Epiquerema]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ethos|Ethos]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia de anfibología|Falacia de anfibología]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia de composición|Falacia de composición]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia de división|Falacia de división]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia de equívoco|Falacia de equívoco]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia del accidente|Falacia del accidente]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia del énfasis|Falacia del énfasis]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia del francotirador|Falacia del francotirador]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia del jugador|Falacia del jugador]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia genética|Falacia genética]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falacia naturalista|Falacia naturalista]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Falso dilema|Falso dilema]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Galope de Gish|Galope de Gish]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Generalización apresurada|Generalización apresurada]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Hombre de hierro|Hombre de hierro]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Hombre de paja|Hombre de paja]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ignoratio elenchi|Ignoratio elenchi]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Inducción|Inducción]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Kairós|Kairós]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Loci a persona|Loci a persona]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Loci a re|Loci a re]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Logos|Logos]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Lugares comunes|Lugares comunes]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Lugares específicos|Lugares específicos]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Mover la portería|Mover la portería]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Ningún escocés verdadero|Ningún escocés verdadero]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Non sequitur|Non sequitur]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Paradoja del mentiroso|Paradoja del mentiroso]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Pathos|Pathos]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Pendiente resbaladiza|Pendiente resbaladiza]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Petición de principio|Petición de principio]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Post hoc ergo propter hoc|Post hoc ergo propter hoc]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Pregunta compleja|Pregunta compleja]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Prepon / decorum|Prepon / decorum]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Pruebas técnicas e inartísticas|Pruebas técnicas e inartísticas]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Reducción al absurdo|Reducción al absurdo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Silogismo|Silogismo]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Sorites|Sorites]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Status|Status]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Trilema y polilema|Trilema y polilema]] `lectura`
+- [[Familias/22 Recursos argumentativos- razonamientos, pruebas y lugares#Tu quoque|Tu quoque]] `lectura`
+
+## [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición|Sistema retórico- operaciones, partes del discurso y recursos de disposición]] (65)
+
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Abbreviatio|Abbreviatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Actio / pronuntiatio|Actio / pronuntiatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Aptum|Aptum]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Argumentatio|Argumentatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Ars dictaminis|Ars dictaminis]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Ars poetriae|Ars poetriae]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Ars praedicandi|Ars praedicandi]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Attentum parare|Attentum parare]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Barbarismo|Barbarismo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Batología|Batología]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Brevitas|Brevitas]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Cacozelia|Cacozelia]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Chría|Chría]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Conclusio|Conclusio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Confirmatio|Confirmatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Diatriba|Diatriba]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Digresión|Digresión]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Dispositio|Dispositio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Docilem parare|Docilem parare]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Elocutio|Elocutio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Encomio|Encomio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Encomio paradójico|Encomio paradójico]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Epitafio|Epitafio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Estilo medio|Estilo medio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Estilo sencillo|Estilo sencillo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Estilo sublime|Estilo sublime]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Exordio|Exordio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Exordio ex abrupto|Exordio ex abrupto]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Género deliberativo|Género deliberativo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Género demostrativo|Género demostrativo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Género judicial|Género judicial]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Hiperurbanismo|Hiperurbanismo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Homología|Homología]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Insinuatio|Insinuatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Intellectio|Intellectio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Invectiva|Invectiva]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Inventio|Inventio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Macarronismo|Macarronismo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Mala affectatio|Mala affectatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Memoria|Memoria]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Narratio|Narratio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Ornatus|Ornatus]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Ornatus facilis y difficilis|Ornatus facilis y difficilis]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Oscuridad|Oscuridad]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Panegírico|Panegírico]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Parábasis|Parábasis]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Partitio|Partitio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Peroración|Peroración]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Peroratio in rebus y in affectibus|Peroratio in rebus y in affectibus]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Perspicuitas|Perspicuitas]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Principium|Principium]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Progymnasmata|Progymnasmata]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Propositio|Propositio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Puritas|Puritas]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Recapitulación|Recapitulación]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Refutatio|Refutatio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Rueda de Virgilio|Rueda de Virgilio]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Sardismós|Sardismós]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Solecismo|Solecismo]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Suasoria y controversia|Suasoria y controversia]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Sublime|Sublime]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Synkrisis|Synkrisis]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Tautología|Tautología]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Thesis y hipótesis|Thesis y hipótesis]] `lectura`
+- [[Familias/23 Sistema retórico- operaciones, partes del discurso y recursos de disposición#Vituperio|Vituperio]] `lectura`
+
+## [[Familias/24 Estilos de época, escuelas y maneras históricas|Estilos de época, escuelas y maneras históricas]] (61)
+
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Acmeísmo|Acmeísmo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Anacreontismo|Anacreontismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Anticiceronianismo|Anticiceronianismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Antipetrarquismo|Antipetrarquismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Asianismo|Asianismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Aticismo|Aticismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Beat|Beat]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Ciceronianismo|Ciceronianismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Conceptismo|Conceptismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Concettismo|Concettismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Costumbrismo|Costumbrismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Creacionismo|Creacionismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Cubismo literario|Cubismo literario]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Culteranismo|Culteranismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Dadaísmo|Dadaísmo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Decadentismo|Decadentismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Dolce stil novo|Dolce stil novo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Esperpento|Esperpento]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Estilo romántico|Estilo romántico]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Estilo senequista|Estilo senequista]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Estridentismo|Estridentismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Eufuismo|Eufuismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Expresionismo literario|Expresionismo literario]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Futurismo|Futurismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Gongorismo|Gongorismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Greguerismo|Greguerismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Imaginismo|Imaginismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Literatura del agotamiento|Literatura del agotamiento]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Literatura testimonial|Literatura testimonial]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Manierismo|Manierismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Marinismo|Marinismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Minimalismo|Minimalismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Modernismo hispánico|Modernismo hispánico]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Naturalismo|Naturalismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Neobarroco|Neobarroco]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Neoclasicismo|Neoclasicismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#New Journalism|New Journalism]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Nouveau roman|Nouveau roman]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Novísimos|Novísimos]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Objetivismo|Objetivismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Parnasianismo|Parnasianismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Petrarquismo|Petrarquismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Poesía de la experiencia|Poesía de la experiencia]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Poesía metafísica|Poesía metafísica]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Poesía pura|Poesía pura]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Preciosismo|Preciosismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Realismo|Realismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Realismo sucio|Realismo sucio]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Rhétoriqueurs|Rhétoriqueurs]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Rococó literario|Rococó literario]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Rodismo|Rodismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Silesianismo|Silesianismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Simbolismo|Simbolismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Surrealismo|Surrealismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Teoría del iceberg|Teoría del iceberg]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Tremendismo|Tremendismo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Trobar clus|Trobar clus]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Trobar leu|Trobar leu]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Trobar ric|Trobar ric]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Ultraísmo|Ultraísmo]] `lectura`
+- [[Familias/24 Estilos de época, escuelas y maneras históricas#Vorticismo|Vorticismo]] `lectura`
+
+## [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos|Procedimientos modernos, vanguardistas y posmodernos]] (67)
+
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Apócrifo|Apócrifo]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Apropiacionismo|Apropiacionismo]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Bricolaje|Bricolaje]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Cadáver exquisito|Cadáver exquisito]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Caviardage|Caviardage]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Clinamen|Clinamen]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Collage literario|Collage literario]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Constricción|Constricción]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Cut-up|Cut-up]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Deconstrucción|Deconstrucción]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Deriva|Deriva]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Desautomatización|Desautomatización]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Desdoblamiento del autor|Desdoblamiento del autor]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Desfamiliarización|Desfamiliarización]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Desnudamiento del artificio|Desnudamiento del artificio]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Desvío|Desvío]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Détournement|Détournement]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Différance|Différance]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Diseminación|Diseminación]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Docuficción|Docuficción]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Dominante|Dominante]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Efecto de distanciamiento|Efecto de distanciamiento]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Erasure|Erasure]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura automática|Escritura automática]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura cinematográfica|Escritura cinematográfica]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura conceptual|Escritura conceptual]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura en blanco|Escritura en blanco]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura fragmentaria|Escritura fragmentaria]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Escritura no creativa|Escritura no creativa]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Extrañamiento semántico|Extrañamiento semántico]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Écriture féminine|Écriture féminine]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Fabulación|Fabulación]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Flarf|Flarf]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Fold-in|Fold-in]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Fragmentación|Fragmentación]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Función poética|Función poética]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Grafismo tipográfico|Grafismo tipográfico]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Hibridismo genérico|Hibridismo genérico]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Hiperrealidad|Hiperrealidad]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Hipertexto|Hipertexto]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Intertextualidad paródica posmoderna|Intertextualidad paródica posmoderna]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Lector cómplice|Lector cómplice]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Lista y catálogo posmoderno|Lista y catálogo posmoderno]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Literatura combinatoria|Literatura combinatoria]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Literatura ergódica|Literatura ergódica]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Literatura potencial|Literatura potencial]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Lo abyecto|Lo abyecto]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Metaficción|Metaficción]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Metaficción historiográfica|Metaficción historiográfica]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Microrrelato|Microrrelato]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Montaje|Montaje]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Muerte del autor|Muerte del autor]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Notas al pie ficcionales|Notas al pie ficcionales]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Novela total|Novela total]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Obra abierta|Obra abierta]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Palabras en libertad|Palabras en libertad]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Pastiche posmoderno|Pastiche posmoderno]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Página negra / página en blanco / página jaspeada|Página negra / página en blanco / página jaspeada]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Poesía encontrada|Poesía encontrada]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Realismo histérico|Realismo histérico]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Reescritura posmoderna del canon|Reescritura posmoderna del canon]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Rizoma|Rizoma]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#S+7|S+7]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Simulacro|Simulacro]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Simultaneísmo|Simultaneísmo]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Tecnopoesía|Tecnopoesía]] `lectura`
+- [[Familias/25 Procedimientos modernos, vanguardistas y posmodernos#Texto escribible y legible|Texto escribible y legible]] `lectura`
+
+## [[Familias/26 Recursos métricos, rítmicos y prosódicos|Recursos métricos, rítmicos y prosódicos]] (72)
+
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Acefalia|Acefalia]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Acento extrarrítmico y antirrítmico|Acento extrarrítmico y antirrítmico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Acento rítmico|Acento rítmico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Anapesto|Anapesto]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Anfíbraco|Anfíbraco]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Anisosilabismo|Anisosilabismo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Arte mayor|Arte mayor]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Arte menor|Arte menor]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Bordón|Bordón]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cadencia|Cadencia]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Catalexis|Catalexis]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cesura|Cesura]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cláusula métrica|Cláusula métrica]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Compensación|Compensación]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Coriambo|Coriambo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Crético|Crético]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cuantificación de la estrofa|Cuantificación de la estrofa]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cursus|Cursus]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cursus planus|Cursus planus]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cursus tardus|Cursus tardus]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cursus trispondaicus|Cursus trispondaicus]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Cursus velox|Cursus velox]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Dáctilo|Dáctilo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Dialefa|Dialefa]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Dicoreo|Dicoreo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Diéresis métrica|Diéresis métrica]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento|Encabalgamiento]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento abrupto|Encabalgamiento abrupto]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento estrófico|Encabalgamiento estrófico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento léxico|Encabalgamiento léxico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento medial|Encabalgamiento medial]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento oracional|Encabalgamiento oracional]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento sirremático|Encabalgamiento sirremático]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Encabalgamiento suave|Encabalgamiento suave]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Espondeo|Espondeo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Esquema de rima|Esquema de rima]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Estrofa y periodo rítmico|Estrofa y periodo rítmico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Hemistiquio|Hemistiquio]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Heterometría|Heterometría]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Hexámetro dactílico|Hexámetro dactílico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Hiato|Hiato]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Hipermetría|Hipermetría]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Isosilabismo|Isosilabismo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ley del acento final|Ley del acento final]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Mudanza|Mudanza]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Pausa estrófica|Pausa estrófica]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Pausa versal|Pausa versal]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Pentámetro|Pentámetro]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Peón|Peón]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Pie métrico|Pie métrico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Pie quebrado|Pie quebrado]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Poema en prosa|Poema en prosa]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Polimetría|Polimetría]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Prosa rítmica|Prosa rítmica]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Recitativo y aria|Recitativo y aria]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Rima|Rima]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ritmo|Ritmo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ritmo acentual|Ritmo acentual]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ritmo cuantitativo|Ritmo cuantitativo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ritmo silábico|Ritmo silábico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Ritornelo métrico|Ritornelo métrico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Sinalefa|Sinalefa]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Sinéresis métrica|Sinéresis métrica]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Tonema y entonación del verso|Tonema y entonación del verso]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Troqueo|Troqueo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Versículo|Versículo]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Verso blanco|Verso blanco]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Verso esticomítico|Verso esticomítico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Verso libre|Verso libre]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Verso polirrítmico|Verso polirrítmico]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Vuelta|Vuelta]] `auto`
+- [[Familias/26 Recursos métricos, rítmicos y prosódicos#Yambo|Yambo]] `auto`
+
+## [[Familias/27 Formas estróficas y poemáticas como recursos compositivos|Formas estróficas y poemáticas como recursos compositivos]] (74)
+
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Balada|Balada]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Canción petrarquista|Canción petrarquista]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Cantiga de amigo|Cantiga de amigo]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Casida|Casida]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Clerihew|Clerihew]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Copla|Copla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Copla de arte mayor|Copla de arte mayor]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Copla de pie quebrado|Copla de pie quebrado]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Cuaderna vía|Cuaderna vía]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Cuarteta|Cuarteta]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Cuarteto|Cuarteto]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Décima|Décima]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Dístico elegíaco|Dístico elegíaco]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Elegía|Elegía]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Envío|Envío]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Epigrama|Epigrama]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Epitalamio|Epitalamio]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Estancia|Estancia]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Estrofa alcaica|Estrofa alcaica]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Estrofa sáfica|Estrofa sáfica]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Estrofas asclepiadeas|Estrofas asclepiadeas]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Égloga|Égloga]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Gazal|Gazal]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Glosa|Glosa]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Haibun|Haibun]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Haiku|Haiku]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Himno|Himno]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Jarcha|Jarcha]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Jueju|Jueju]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Letrilla|Letrilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Limerick|Limerick]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Lira|Lira]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Lüshi|Lüshi]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Muwassaha|Muwassaha]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Octava real|Octava real]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Octavilla|Octavilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Oda horaciana|Oda horaciana]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Oda pindárica|Oda pindárica]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Ovillejo|Ovillejo]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Pantun|Pantun]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Pastorela|Pastorela]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Planh|Planh]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Quinteto|Quinteto]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Quintilla|Quintilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Redondilla|Redondilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Renga y haikai no renga|Renga y haikai no renga]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Romance|Romance]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Romancillo, endecha y romance heroico|Romancillo, endecha y romance heroico]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Rondel|Rondel]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Rondó|Rondó]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Rubaiyat|Rubaiyat]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Seguidilla|Seguidilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Senryū|Senryū]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Serranilla|Serranilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Serventesio|Serventesio]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Sexta rima y sextilla|Sexta rima y sextilla]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Sextina|Sextina]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Silva|Silva]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Sirventés|Sirventés]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Soleá|Soleá]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Sonetillo|Sonetillo]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Soneto|Soneto]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Soneto con estrambote|Soneto con estrambote]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Soneto shakespeariano|Soneto shakespeariano]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Tanka|Tanka]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Tensó|Tensó]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Terceto|Terceto]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Tercetos encadenados|Tercetos encadenados]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Treno|Treno]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Triolet|Triolet]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Villancico|Villancico]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Villanela|Villanela]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Volta|Volta]] `auto`
+- [[Familias/27 Formas estróficas y poemáticas como recursos compositivos#Zéjel|Zéjel]] `auto`
+
+## [[Familias/28 Recursos gráficos, visuales y de constricción lúdica|Recursos gráficos, visuales y de constricción lúdica]] (36)
+
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Abecedario|Abecedario]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Acrosticón doble y múltiple|Acrosticón doble y múltiple]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Acróstico|Acróstico]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Ambigrama|Ambigrama]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Anagrama|Anagrama]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Bifronte|Bifronte]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Bola de nieve|Bola de nieve]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Caligrama|Caligrama]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Carmen figuratum|Carmen figuratum]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Cento visual|Cento visual]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Criptograma|Criptograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Cronograma|Cronograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Emblema tipográfico|Emblema tipográfico]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Heterograma e isograma|Heterograma e isograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Holograma poético|Holograma poético]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Jeroglífico de pasatiempo|Jeroglífico de pasatiempo]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Laberinto|Laberinto]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Lipograma|Lipograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Mesóstico|Mesóstico]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Monovocalismo|Monovocalismo]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Nombre oculto|Nombre oculto]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Palíndromo|Palíndromo]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Pangrama|Pangrama]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Paragrama gráfico|Paragrama gráfico]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poema figurativo|Poema figurativo]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poema objeto|Poema objeto]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poema-cubo y poema permutacional|Poema-cubo y poema permutacional]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poesía cinética y digital animada|Poesía cinética y digital animada]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poesía concreta|Poesía concreta]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Poesía visual|Poesía visual]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Senhal|Senhal]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Tautograma|Tautograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Teléstico|Teléstico]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Tipograma|Tipograma]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Verso retrógrado|Verso retrógrado]] `auto`
+- [[Familias/28 Recursos gráficos, visuales y de constricción lúdica#Versos correlativos|Versos correlativos]] `auto`
+
+## [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso|Relaciones léxico-semánticas y lógicas explotadas como recurso]] (38)
+
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Alotopía|Alotopía]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Antonimia|Antonimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Antonimia gradual|Antonimia gradual]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Antroponimia significativa|Antroponimia significativa]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Campo asociativo|Campo asociativo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Campo semántico|Campo semántico]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Cohiponimia|Cohiponimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Colocación|Colocación]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Complementariedad|Complementariedad]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Connotación|Connotación]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Cultismo|Cultismo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Denotación|Denotación]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Desautomatización fraseológica|Desautomatización fraseológica]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Extranjerismo|Extranjerismo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Fraseologismo|Fraseologismo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Hiperonimia|Hiperonimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Hiperónimo como eufemismo|Hiperónimo como eufemismo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Hiponimia|Hiponimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Holonimia|Holonimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Homofonía|Homofonía]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Homografía|Homografía]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Homonimia|Homonimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Isotopía|Isotopía]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Lexicalización|Lexicalización]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Meronimia|Meronimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Neutralización semántica|Neutralización semántica]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Paronimia|Paronimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Polionimia|Polionimia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Polisemia|Polisemia]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Reciprocidad|Reciprocidad]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Registro y nivel de lengua|Registro y nivel de lengua]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Sema, semema, clasema|Sema, semema, clasema]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Sinonimia léxica|Sinonimia léxica]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Sinonimia parcial|Sinonimia parcial]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Tabú lingüístico|Tabú lingüístico]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Tecnicismo|Tecnicismo]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Toponimia simbólica|Toponimia simbólica]] `lectura`
+- [[Familias/29 Relaciones léxico-semánticas y lógicas explotadas como recurso#Vulgarismo|Vulgarismo]] `lectura`
+
+## [[Familias/30 Enunciación, deixis y pragmática literaria|Enunciación, deixis y pragmática literaria]] (49)
+
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Acto de habla|Acto de habla]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Acto de habla indirecto|Acto de habla indirecto]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Anáfora y catáfora|Anáfora y catáfora]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Contrato de veridicción|Contrato de veridicción]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Cortesía verbal|Cortesía verbal]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis|Deixis]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis am Phantasma|Deixis am Phantasma]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis espacial|Deixis espacial]] `auto`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis personal|Deixis personal]] `auto`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis social|Deixis social]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis temporal|Deixis temporal]] `auto`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Deixis textual|Deixis textual]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Débrayage|Débrayage]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Débrayage enunciativo y enuncivo|Débrayage enunciativo y enuncivo]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Discurso e historia|Discurso e historia]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Discurso performativo literario|Discurso performativo literario]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Embrague|Embrague]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Embrayage|Embrayage]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Escenografía enunciativa|Escenografía enunciativa]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Ethos discursivo|Ethos discursivo]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Función conativa|Función conativa]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Función emotiva|Función emotiva]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Función fática|Función fática]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Función metalingüística|Función metalingüística]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Función referencial|Función referencial]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Hablante lírico|Hablante lírico]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Horizonte de expectativas|Horizonte de expectativas]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Impersonalización|Impersonalización]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Implicatura|Implicatura]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Ironía como mención|Ironía como mención]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Locutor y enunciador|Locutor y enunciador]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Lugares de indeterminación|Lugares de indeterminación]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Modalidad alética|Modalidad alética]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Modalidad apreciativa|Modalidad apreciativa]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Modalidad deóntica|Modalidad deóntica]] `auto`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Modalidad epistémica|Modalidad epistémica]] `auto`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Modalización|Modalización]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Nosotros inclusivo|Nosotros inclusivo]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Pacto autobiográfico|Pacto autobiográfico]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Pacto ficcional|Pacto ficcional]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Performativo|Performativo]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Plural de modestia y mayestático|Plural de modestia y mayestático]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Polifonía enunciativa|Polifonía enunciativa]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Presuposición|Presuposición]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Relevancia|Relevancia]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Subjetivema|Subjetivema]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Tú lírico|Tú lírico]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Violación ostensiva de máximas|Violación ostensiva de máximas]] `pistas`
+- [[Familias/30 Enunciación, deixis y pragmática literaria#Vocativo|Vocativo]] `pistas`
+
+## [[Familias/31 Modos, tonos y registros literarios|Modos, tonos y registros literarios]] (36)
+
+- [[Familias/31 Modos, tonos y registros literarios#Ascético|Ascético]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Bucólico|Bucólico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Bufonesco|Bufonesco]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Burla|Burla]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Camp|Camp]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Cómico|Cómico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Cursi|Cursi]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Didáctico|Didáctico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Distópico|Distópico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Dramático|Dramático]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Elegíaco|Elegíaco]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Épico|Épico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Farsa|Farsa]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Gnómico|Gnómico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Gótico|Gótico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Grotesco|Grotesco]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Idílico|Idílico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Kitsch|Kitsch]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Lírico|Lírico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Lo pintoresco|Lo pintoresco]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Lo siniestro|Lo siniestro]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Lo sublime|Lo sublime]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Macabro|Macabro]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Melodrama|Melodrama]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Místico|Místico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Mordaz|Mordaz]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Nostálgico|Nostálgico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Patetismo|Patetismo]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Picaresco|Picaresco]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Sátira|Sátira]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Sátira horaciana|Sátira horaciana]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Sátira juvenaliana|Sátira juvenaliana]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Sentimentalismo|Sentimentalismo]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Tragicomedia|Tragicomedia]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Trágico|Trágico]] `lectura`
+- [[Familias/31 Modos, tonos y registros literarios#Utópico|Utópico]] `lectura`
